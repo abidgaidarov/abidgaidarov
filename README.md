@@ -23,9 +23,6 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 - **Master's degree** in Project Management at Gubkin Russian State University of Oil and Gas (09.2015 — 01.2018)
 - **Engineer's degree** in Petroleum Engineering at Gubkin Russian State University of Oil and Gas (09.2010 — 07.2015)
 
-## Contact me 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaidarov/)
-
 ## Python 
 ![CodeWars](https://www.codewars.com/users/gaidarov/badges/large)
 
@@ -38,4 +35,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
-Go ahead and see my projects in pinned repositories!
+## Contact me 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaidarov/)
+
+# Go ahead and see my projects in pinned repositories!
