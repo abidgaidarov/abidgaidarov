@@ -7,8 +7,10 @@
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
 | **Intern Data Scientist**    | **Elbrus Bootcamp**  | **Data Science, ML**                      | **10.2022 - till now** |
 | Project Manager              | Severstal            | Advanced engineering of steel products    | 04.2021 - 08.2022      |
-| Engineer                     | NESR                 | Coiled tubing                             | 01.2020 - 04.2021      |
-| Project Manager | Packer Service       | Coiled tubing                             | 09.2013 - 01.2020      |
+| Engineer                     | NESR Saudi Arabia    | Coiled tubing oilfield services                           | 01.2020 - 04.2021      |
+| Project Manager              | Packer Service       | Coiled tubing                             | 04.2018 - 01.2020      |
+| Engineer                     | Packer Service       | Coiled tubing                             | 02.2016 - 04.2018      |
+| Operator                     | Packer Service       | Coiled tubing                             | 06.2015 - 01.2016      |
 
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov/).<br>
