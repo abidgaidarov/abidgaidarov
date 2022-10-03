@@ -38,4 +38,4 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
-Be welcome see my projects in pinned repositories!
+Go ahead and see my projects in pinned repositories!
