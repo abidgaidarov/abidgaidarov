@@ -5,8 +5,8 @@
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
-| **Dq**                       | **q             p**  | **qL**                                    | **0   021 - till now** |
-
+| **Intern Data Scientist**    | **Elbrus Bootcamp**  | **Data Science, ML**                      | **10.2022 - till now** |
+| **Intern Data Scientist**    | **Elbrus Bootcamp**  | **Data Science, ML**                      | **10.2022 - till now** |
 
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov/).<br>
