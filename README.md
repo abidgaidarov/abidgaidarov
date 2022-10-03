@@ -23,7 +23,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 - **Master's degree** in Project Management at Gubkin Russian State University of Oil and Gas (09.2015 — 01.2018)
 - **Engineer's degree** in Petroleum Engineering at Gubkin Russian State University of Oil and Gas (09.2010 — 07.2015)
 
-## Stack:
+## Stack
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
