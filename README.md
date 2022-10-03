@@ -1,12 +1,12 @@
 # Hi there  👋
 
-### I'm working on:
+## I'm working on:
 - Data Analysis
 - Machine Learning
 - Deep Learning
 
 
-### Work experience 
+## Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
 | **Intern Data Scientist**    | **Elbrus Bootcamp**  | **Data Science, ML**                      | **10.2022 - till now** |
