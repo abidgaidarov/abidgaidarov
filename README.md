@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-
+### I'm working on:
+- Data Analysis
+- Machine Learning
+- Deep Learning
 
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
@@ -22,11 +25,10 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 ### Contact me 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaidarov/)
 
-
 ### Python 
 ![CodeWars](https://www.codewars.com/users/gaidarov/badges/large)
 
-### Some badges:
+### Stack:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -35,3 +37,4 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
+Be welcome see my projects in pinned repositories!
