@@ -9,7 +9,7 @@
 ## Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
-| **Intern Data Scientist**    | **Elbrus Bootcamp**  | **Data Science.   **                      | **10.2022 - till now** |
+| **Intern Data Scientist**    | **Elbrus Bootcamp**  | **Data Science**                          | **10.2022 - till now** |
 | Project Manager              | Severstal            | Advanced engineering of steel products    | 04.2021 - 08.2022      |
 | Engineer                     | NESR Saudi Arabia    | Coiled tubing oilfield services           | 01.2020 - 04.2021      |
 | Project Manager              | Packer Service       | Coiled tubing oilfield services           | 04.2018 - 01.2020      |
