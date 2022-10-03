@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there  👋
 
-### **I'm working on**:
+### I'm working on:
 - Data Analysis
 - Machine Learning
 - Deep Learning
