@@ -32,10 +32,10 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
-# Python 
+### Python 
 ![CodeWars](https://www.codewars.com/users/gaidarov/badges/large)
 
 ## Contact me 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaidarov/)
 
-# Go ahead and see my projects in pinned repositories!
+### Go ahead and see my projects in pinned repositories!
