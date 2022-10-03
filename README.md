@@ -24,7 +24,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 
 
 ### Python 
-![CodeWars](https://www.codewars.com/users/paantur/badges/large)
+![CodeWars](https://www.codewars.com/users/gaidarov/badges/large)
 
 ### Some badges:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
