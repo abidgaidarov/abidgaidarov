@@ -33,7 +33,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ## Python 
-![CodeWars](https://www.codewars.com/users/gaidarov/badges/large)
+![CodeWars](https://www.codewars.com/users/gaidarov/badges/small)
 
 ## Contact me 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaidarov/)
