@@ -2,6 +2,7 @@
 
 ## I'm working on:
 - Data Analysis
+- Data visualization
 - Machine Learning
 - Deep Learning
 
