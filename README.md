@@ -2,7 +2,7 @@
 
 ## I'm working on:
 - Data Analysis
-- Data visualization
+- Data Visualization
 - Machine Learning
 - Deep Learning
 
