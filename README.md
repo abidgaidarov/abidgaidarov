@@ -1,10 +1,10 @@
 # Hi there  👋
 
 ## I'm working on:
-- Data Analysis
-- Data Visualization
-- Machine Learning
-- Deep Learning
+- Data analysis
+- Data visualization
+- Machine learning
+- Deep learning
 
 
 ## Work experience 
