@@ -37,7 +37,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 ![CodeWars](https://www.codewars.com/users/gaidarov/badges/small)
 
 ## Contact me 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abid_gaidarov)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a_gaidarov)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaidarov/)
 
 **Go ahead and see my projects in pinned repositories!**
