@@ -42,4 +42,3 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 
 **Go ahead and see my projects in pinned repositories!**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abidgaidarov&repo=data-analysis-projects&theme=swift)](https://github.com/abidgaidarov/data-analysis-projects)
