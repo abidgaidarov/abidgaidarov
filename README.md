@@ -42,4 +42,4 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 
 **Go ahead and see my projects in pinned repositories!**
 
-![Abid's GitHub stats](https://github-readme-stats.vercel.app/api?username=abidgaidarov&theme=dark&show_icons=true)
+![Abid's GitHub stats](https://github-readme-stats.vercel.app/api?username=abidgaidarov&theme=solarized-light&show_icons=true)
