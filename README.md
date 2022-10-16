@@ -44,4 +44,4 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/gaidarov
 
 ![Abid's GitHub stats](https://github-readme-stats.vercel.app/api?username=abidgaidarov&theme=graywhite&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abidgaidarov&repo=data-analysis-projects)](https://github.com/abidgaidarov/data-analysis-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abidgaidarov&repo=data-analysis-projects&theme=dark)](https://github.com/abidgaidarov/data-analysis-projects)
