@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [SignVision Bot](https://github.com/abidgaidarov/road-sign-classifier-bot)
 
-- 📫 How to reach me **https://telegram.me/a_gaidarov**
-
 <h3 align="left">Reach me:</h3>
 <p align="left">
-<a href="https://telegram.me/a_gaidarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaidarov/" height="30" width="40" /></a>
+<a href="https://telegram.me/a_gaidarov" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROhvO44m3gDQRu6IKjqCjpPG9-F1r98BwPYg&usqp=CAU" alt="https://www.linkedin.com/in/gaidarov/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
