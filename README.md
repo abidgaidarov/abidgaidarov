@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidgaidarov&label=Profile%20views&color=0e75b6&style=flat" alt="abidgaidarov" /> </p>
 
-- 🔭 I’m currently working on [SignVision Bot](https://github.com/abidgaidarov/road-sign-classifier-bot)
+🔭 I’m currently working on [SignVision Bot](https://github.com/abidgaidarov/road-sign-classifier-bot)
 
 <h3 align="left">Reach me:</h3>
 <p align="left">
