@@ -7,6 +7,11 @@
 
 - 📫 How to reach me **https://telegram.me/a_gaidarov**
 
+<h3 align="left">Reach me:</h3>
+<p align="left">
+<a href="https://telegram.me/a_gaidarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaidarov/" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gaidarov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaidarov/" height="30" width="40" /></a>
