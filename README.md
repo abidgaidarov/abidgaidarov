@@ -7,7 +7,7 @@
 
 <h3 align="left">Reach me:</h3>
 <p align="left">
-<a href="https://telegram.me/a_gaidarov" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5-urjGP53tI8krWREDY2up2Ywkfe5p6qrA&usqp=CAU" alt="https://telegram.me/a_gaidarov" height="40" width="40" /></a>
+<a href="https://telegram.me/a_gaidarov" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65zANjKc8MlgeNYlMUa7z92aiO4GaKw3AkQ&usqp=CAU" alt="https://telegram.me/a_gaidarov" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
