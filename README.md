@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidgaidarov&label=Profile%20views&color=0e75b6&style=flat" alt="abidgaidarov" /> </p>
 
-🔭 I’m currently working on [SignVision Bot](https://github.com/abidgaidarov/road-sign-classifier-bot)
-
 <h3 align="left">Reach me:</h3>
 <p align="left">
 <a href="https://telegram.me/a_gaidarov" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoMNk-hM6ZwY0UC-TtrjkauwDPMFEppRWuGw&usqp=CAU" alt="https://telegram.me/a_gaidarov" height="35" width="35" /></a>
